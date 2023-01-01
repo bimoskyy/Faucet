@@ -1,2 +1,2 @@
-# --- Hanya Kumpulan Web & Script Penghasil FaucetPay Dari Berbagai Sumber ---
+# --- Kumpulan Web & Script Penghasil FaucetPay Dari Berbagai Sumber ---
 
