@@ -1,5 +1,2 @@
-# Hanya Kumpulan Web & Script Penghasil FaucetPay 
-
-• Terdapat Link Project <br>
-• Sumber Tercantum
+# Hanya Kumpulan Web & Script Penghasil FaucetPay Dari Berbagai Sumber
 
